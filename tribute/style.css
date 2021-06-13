@@ -56,3 +56,8 @@
     bottom:0px;
     font-size:large;
   }
+  @media(max-width:300px){
+    #image{
+      height:300px;
+    }
+  }
